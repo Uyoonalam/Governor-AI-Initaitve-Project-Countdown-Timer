@@ -1,0 +1,22 @@
+{
+  "name": "count-down-timer-by-uyoon-alam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Uyoon Alam",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.8"
+  },
+  "dependencies": {
+    "date-fns": "^3.6.0",
+    "inquirer": "^9.2.20"
+  }
+}
